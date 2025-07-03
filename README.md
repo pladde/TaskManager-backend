@@ -13,7 +13,7 @@ This project serves as a key component of my IT Specialist in Application Develo
 
 ## Technologies
 - Java (24.0.1)
-- Spring Boot
+- Spring Boot (3.5.3)
 - Spring Data JPA
 - Lombok
 - MariaDB/MySQL
