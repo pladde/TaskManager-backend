@@ -8,8 +8,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.GenerationType;
 import java.time.LocalDateTime;
 
 @AllArgsConstructor
@@ -35,8 +33,8 @@ public class Task {
     private String title;
     private String description;
     private String category;
-    private LocalDateTime createdAt;
-    private LocalDateTime deadline;
     private String priority;
     private String status;
+    private LocalDateTime deadline;
+    private LocalDateTime importDate;
 }
