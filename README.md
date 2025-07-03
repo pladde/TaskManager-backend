@@ -12,8 +12,8 @@ This project serves as a key component of my IT Specialist in Application Develo
 - RESTful architecture
 
 ## Technologies
-- Java (24)
-- Spring Boot (Version hier einfügen, z.B. 3.2.5)
+- Java (24.0.1)
+- Spring Boot
 - Spring Data JPA
 - Lombok
 - MariaDB/MySQL
