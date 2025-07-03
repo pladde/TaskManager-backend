@@ -29,7 +29,7 @@ This project serves as a key component of my IT Specialist in Application Develo
 
 ## Setup and Running the Application
 ### Prerequisites
-- Java Development Kit (JDK) 24
+- Java Development Kit (JDK) 24.0.1
 - Gradle
 - MariaDB/MySQL Server installed and running
 
